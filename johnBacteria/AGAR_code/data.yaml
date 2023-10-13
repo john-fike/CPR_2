@@ -1,0 +1,7 @@
+train: C:\Users\precisionag\Documents\bacteria\johnBacteria\AGAR_dataset\use\train\
+val: C:\Users\precisionag\Documents\bacteria\johnBacteria\AGAR_dataset\use\val\
+# test: ../test/images
+
+nc: 1
+names: ['1']
+
